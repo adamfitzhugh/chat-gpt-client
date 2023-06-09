@@ -20,4 +20,4 @@ result = ''
 for choice in response.choices:
     result += choice.message.content
 
-print(result) 
+print(result)
